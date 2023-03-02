@@ -1,0 +1,17 @@
+footer {
+    color: rgb(136, 136, 136);
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+footer span {
+    font-weight: bold;
+}
